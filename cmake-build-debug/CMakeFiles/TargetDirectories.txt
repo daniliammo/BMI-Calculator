@@ -1,0 +1,3 @@
+/home/daniliammo/CLionProjects/BMICalculator/cmake-build-debug/CMakeFiles/BMICalculator.dir
+/home/daniliammo/CLionProjects/BMICalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniliammo/CLionProjects/BMICalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
